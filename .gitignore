@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+build
+out
+
+# idea config
+.idea
+
+# stages
+/My First Project with Java/Calculate net income/
+/My First Project with Java/Measuring total income/
+/My First Project with Java/Print the prices/
